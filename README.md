@@ -1,2 +1,2 @@
 # Melious-NLP
-nlp自学项目
+灾难推文nlp自学项目
